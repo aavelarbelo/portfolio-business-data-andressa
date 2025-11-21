@@ -35,7 +35,7 @@ Projeto focado em redução de custos logísticos através de otimização:
 
 ### 🔹 3. Property Price Analysis – Porto  
 Projeto de análise de preços imobiliários no Porto:  
-👉 https://github.com/aavelarbelo/aavelarbelo-property-price-analysis-porto
+👉 https://github.com/aavelarbelo/aavelarbelo-property-price-analysis-porto *(a criar)*
 
 ---
 
